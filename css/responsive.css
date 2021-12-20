@@ -1,0 +1,869 @@
+/*  ==================
+   Extra small device starts
+===================== */
+@media (max-width:575px){
+  /*   navbar starts    */
+  
+.navbar {
+    height: 80px;
+}
+.navbar .navbar-brand{
+    position: unset !important;
+    padding: 0 15px !important;
+    }
+    .navbar .navbar-toggler{
+      /* color: #fcb100 !important; */
+      border: 2px solid #fcb100 !important;
+      margin-left: 253px;
+      margin-top: -38px;      
+    }
+    .navbar .navbar-toggler i{
+      color:#fcb100;
+      font-size: 27px;
+    } 
+    .nav-item a{
+      color: #ffffff;      
+    }
+    .navbar .navbar-brand img {
+      width: 60% !important;
+      margin-top: -15px!important;
+  }
+
+.main-nav {
+    margin-top: 0px;
+    background: #000;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    text-align: center;
+    border-top: 1px solid #fcb100;
+}
+.navbar .navbar-nav .nav-link {
+    padding: 10px 0;
+}
+.main-nav > a {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+/*====================
+       banner part starts
+    =======================*/
+  
+    .banner-text{
+      margin-top: -50px !important;
+    }
+    .banner-text p {
+      margin-top: -25px !important;
+  }
+  .banner-text h4 {
+      margin-bottom: 15px !important;
+      text-align: center !important;
+  }
+  .banner-text h1 {
+      font-size: 200px;
+  }
+  .banner-text a {
+      padding: 10px 20px;
+      margin-top: 22px;
+      margin-bottom: 30px;
+      font-size: 16px;
+  }
+
+  /* service part  */
+  #service{      
+      margin-bottom: -90px !important;
+  } 
+  /* Game part Start */
+  #game_part h4{
+      font-size: 35px;
+  }
+   
+ 
+/* Claim part Start */
+#claim_part {
+    padding: 60px 0 65px 0;
+}
+.claim_text {
+    padding-top: 5px;
+}
+.claim_text h4 {
+    padding: 22px 0 8px 0;
+    font-size: 35px;
+    text-align: center;
+}
+.claim_text p {
+    text-align: center;
+    font-size: 14px;
+}
+.claim_text a {
+    padding: 10px 20px;
+    margin-top: 25px;
+    font-size: 16px;
+}
+.claim_text p {
+    padding-top: 0px;
+}
+.clm_btn {
+    text-align: center
+}
+.claim_text p span {
+    padding-top: 5px;
+}
+/*   claim-part end   */
+
+/* Pricing part Start */
+#pricing_part {
+    padding: 58px 0 10px 0;
+}
+.pricing-head h5{
+    font-size: 35px !important;
+}
+.pricing_inner {
+    margin-bottom: 75px;
+}
+.pricing_head h2 {
+    font-size: 25px;
+}
+.pricing_head {
+    margin-bottom: 48px;
+}
+.pricing_inner h3 {
+    font-size: 20px;
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+.pricing_inner h4 {
+    font-size: 35px;
+}
+.pricing_inner p {
+    padding-bottom: 15px;
+}
+.pricing_inner ul li {
+    padding: 5px;
+    font-size: 14px;
+}
+.pricing_inner a {
+    padding: 10px 20px;
+    font-size: 16px;
+    bottom: -20px;
+}
+.pricing_inner_head h2 {
+    font-size: 16px;
+    padding: 15px 0;
+    top: -50px;
+}
+/*  pricing-part ends   */
+
+/*    accordion part starts    */
+
+#acco-dion{
+    padding-top: 65px !important;
+    padding-bottom: 73px !important;
+}
+.faq-tournament h5{
+    font-size: 30px !important; 
+    text-align: center !important;
+}
+.main-accordion .label{
+    font-size: 14px !important; 
+}
+.main-accordion .content p{
+    font-size: 12px !important; 
+}
+/*    accordion part ends    */
+/*    tournament starts    */
+
+#tour-mr{
+    margin-top: 40px !important;
+    margin-bottom: -20px !important;
+}
+.count-text{
+    /* font-size: 16px !important; */
+    margin-top: 40px !important;
+}
+#getting-startted{
+    margin-top: -40px !important;
+}
+.tournament-scroll-name{
+    margin-right: 0 !important;    
+}
+.tournament-scroll-name h5{
+  font-size: 12px !important;
+}
+.tournament-scroll-name p{
+  font-size: 12px !important;
+  margin-top: -45px !important;
+  margin-bottom: 30px !important;
+}
+.tournament-scroll-flag img{
+    margin-top: -32px !important;
+    margin-bottom: 30px !important;
+}
+
+/*    tournament ends    */
+/*    payments starts     */
+
+#payment_part .pay_form{
+    margin-bottom:16px !important;
+}
+/*    payments ends    */
+#payment_part h3{
+    font-size: 20px !important;
+}
+#payment_part a img{
+    padding-right: 0 !important;
+}
+/*    payments ends    */
+/*    footer starts     */
+
+.foot_about h3,
+.foot_secu h3 {
+    font-size: 20 !important;
+}
+.foot_about p{
+    font-size: 15 !important;
+}
+.foot_about a{
+    font-size: 16 !important;
+}
+.foot_info_head h3{
+    margin-top: 10px !important;
+    font-size: 20 !important;
+}
+.foot-text li a{
+    font-size: 10 !important;
+}
+.foot_secu_text img{
+    width: 80%;
+    height: 80%;
+}
+.foot_secu_text p{
+    font-size: 10 !important;
+}
+.foot_bot p{
+    font-size: 13px !important;
+}
+/*    footer ends    */
+
+/*      footer animation start     */
+
+.effect {
+    position: absolute;
+    left: 0;
+    top: -15px;    
+    animation: lineshine 5s infinite;
+    animation-direction: alternate;
+    z-index: 9999;
+}
+
+@keyframes lineshine {
+    form {
+        left: 0;
+    }
+    to {
+        left: 78%;
+    }
+}
+@keyframes lineshine2 {
+    form {
+        left: 0;
+    }
+    to {
+        left: 82%;
+    }
+}
+@keyframes lineshine3 {
+    form {
+        left: 0;
+    }
+    to {
+        left: 82%;
+    }
+}
+
+/*      footer animation ends     */
+
+}
+
+/*=========================
+extra small device ends
+==========================*/
+
+
+/*=====================
+small device satrts
+=======================*/
+
+@media (min-width:575px) and (max-width:767px){
+/* nav starts */
+.navbar {
+    height: 80px;
+}
+.navbar .navbar-brand{
+    position: unset !important;
+    padding: 0 15px !important;
+    }
+    .navbar button .navbar-toggler{
+      background-color: rgb(30, 230, 44) !important;
+      border-color: #fcb100;
+      margin-left: 200px;
+      margin-top: -38px;
+    }
+    .navbar .navbar-toggler i{
+      color:#fcb100;
+    } 
+    .navbar .navbar-brand img {
+      width: 60% !important;
+      margin-top: -15px!important;
+  }
+
+.main-nav {
+    margin-top: 0px;
+    background: #000;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    text-align: center;
+    border-top: 1px solid #fcb100;
+}
+.navbar .navbar-nav .nav-link {
+    padding: 10px 0;
+}
+.main-nav > a {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+/*   nav ends   */
+/*  banner starts    */
+
+.banner-text{
+    margin-top: -50px !important;
+  }
+  .banner-text p {
+    margin-top: -25px !important;
+}
+.banner-text h4 {
+    margin-bottom: 15px !important;
+    text-align: center !important;
+}
+.banner-text h1 {
+    font-size: 200px;
+}
+.banner-text a {
+    padding: 10px 20px;
+    margin-top: 22px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+/* service part  */
+#service{      
+    margin-bottom: -90px !important;
+} 
+/* Game part Start */
+#game_part h4{
+    font-size: 35px;
+}
+ 
+
+/* Claim part Start */
+#claim_part {
+  padding: 60px 0 65px 0;
+}
+.claim_text {
+  padding-top: 5px;
+}
+.claim_text h4 {
+  padding: 22px 0 8px 0;
+  font-size: 35px;
+  text-align: center;
+}
+.claim_text p {
+  text-align: center;
+  font-size: 14px;
+}
+.claim_text a {
+  padding: 10px 20px;
+  margin-top: 25px;
+  font-size: 16px;
+}
+.claim_text p {
+  padding-top: 0px;
+}
+.clm_btn {
+  text-align: center
+}
+.claim_text p span {
+  padding-top: 5px;
+}
+/*   claim-part end   */
+
+/* Pricing part Start */
+#pricing_part {
+  padding: 58px 0 10px 0;
+}
+.pricing-head h5{
+  font-size: 35px !important;
+}
+.pricing_inner {
+  margin-bottom: 75px;
+}
+.pricing_head h2 {
+  font-size: 25px;
+}
+.pricing_head {
+  margin-bottom: 48px;
+}
+.pricing_inner h3 {
+  font-size: 20px;
+  padding-bottom: 0px;
+  padding-top: 20px;
+}
+.pricing_inner h4 {
+  font-size: 35px;
+}
+.pricing_inner p {
+  padding-bottom: 15px;
+}
+.pricing_inner ul li {
+  padding: 5px;
+  font-size: 14px;
+}
+.pricing_inner a {
+  padding: 10px 20px;
+  font-size: 16px;
+  bottom: -20px;
+}
+.pricing_inner_head h2 {
+  font-size: 16px;
+  padding: 15px 0;
+  top: -50px;
+}
+/*  pricing-part ends   */
+
+/*    accordion part starts    */
+
+#acco-dion{
+  padding-top: 65px !important;
+  padding-bottom: 73px !important;
+}
+.faq-tournament h5{
+  font-size: 30px !important; 
+  text-align: center !important;
+}
+.main-accordion .label{
+  font-size: 14px !important; 
+}
+.main-accordion .content p{
+  font-size: 12px !important; 
+}
+/*    accordion part ends    */
+/*    tournament starts    */
+
+#tour-mr{
+  margin-top: 40px !important;
+  margin-bottom: -20px !important;
+}
+.count-text{
+  /* font-size: 16px !important; */
+  margin-top: 40px !important;
+}
+#getting-startted{
+  margin-top: -40px !important;
+}
+.tournament-scroll-name{
+  margin-right: 0 !important;    
+}
+.tournament-scroll-name h5{
+font-size: 12px !important;
+}
+.tournament-scroll-name p{
+font-size: 12px !important;
+margin-top: -45px !important;
+margin-bottom: 30px !important;
+}
+.tournament-scroll-flag img{
+  margin-top: -32px !important;
+  margin-bottom: 30px !important;
+}
+
+/*    tournament ends    */
+/*    payments starts     */
+
+#payment_part .pay_form{
+  margin-bottom:16px !important;
+}
+/*    payments ends    */
+#payment_part h3{
+  font-size: 20px !important;
+}
+#payment_part a img{
+  padding-right: 0 !important;
+}
+/*    payments ends    */
+/*    footer starts     */
+
+.foot_about h3,
+.foot_secu h3 {
+  font-size: 20 !important;
+}
+.foot_about p{
+  font-size: 15 !important;
+}
+.foot_about a{
+  font-size: 16 !important;
+}
+.foot_info_head h3{
+  margin-top: 10px !important;
+  font-size: 20 !important;
+}
+.foot-text li a{
+  font-size: 10 !important;
+}
+.foot_secu_text img{
+  width: 80%;
+  height: 80%;
+}
+.foot_secu_text p{
+  font-size: 10 !important;
+}
+.foot_bot p{
+  font-size: 13px !important;
+}
+/*    footer ends    */
+
+.effect {
+    position: absolute;
+    left: 0;
+    top: -15px;    
+    animation: lineshine 5s infinite;
+    animation-direction: alternate;
+    z-index: 9999;
+}
+
+@keyframes lineshine {
+    form {
+        left: 0;
+    }
+    to {
+        left: 78%;
+    }
+}
+@keyframes lineshine2 {
+    form {
+        left: 0;
+    }
+    to {
+        left: 82%;
+    }
+}
+@keyframes lineshine3 {
+    form {
+        left: 0;
+    }
+    to {
+        left: 82%;
+    }
+}
+
+/*      footer animation ends     */
+}
+
+
+/*=====================
+small device ends
+=======================*/
+
+/*=====================
+medium device starts
+=======================*/
+@media(min-width:768px) and (max-width:992px){
+    /* nav starts */
+    .navbar a img {
+        height: 90px;
+        width: 150px;
+    }
+    .main-nav > a {
+        padding: 10px 15px !important;
+        font-size: 14px !important;
+        margin-left: 10px !important;
+    }
+    .main-nav ul li a.nav-link {
+        font-size: 13px !important;
+        padding: 10px 4px !important;
+    }
+    .navbar-brand {
+        margin-right: 0;
+    }
+/*     
+
+/*   nav ends   */
+/*  banner starts    */
+
+#banner_part {
+    padding: 158px 0 175px 0 !important;
+}
+.banner-text h4 {
+    font-size: 16px;
+}
+.banner_img img {
+    width: 55% !important;
+    height: 66% !important;
+    top: 50%;
+    left: -25px;
+    transform: translateY(-50%);
+    height: auto;
+    max-width: 100%;
+}
+.banner-text h1 {
+    font-size: 180px;
+    margin-top: -15px;
+}
+.banner-text p {
+    font-size: 14px;
+    margin-top: -15px;
+}
+.banner-text a {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 15px;
+}
+/* service part  */
+#service{      
+    margin-bottom: -50px !important;
+    /* margin-top: 40px !important; */
+} 
+/* Game part Start */
+
+#game_part {
+  padding: 30px 0 65px 0;
+  /* margin: 15px; */
+}
+.game_flow {
+  top: -230px;
+}
+.game_head {
+  margin-top: 18px;
+}
+.game_head span {
+  font-size: 35px;
+}
+.game-img {
+  margin-top: 27px;
+}
+.game-overlay h3 {
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+.game-img .game-overlay h3 {
+  font-size: 20px;
+}
+.game-img .game-overly a {
+  margin-top: 20px;
+  padding: 6px 20px;
+  font-size: 15px;
+}
+ /*   game part end    */
+
+/* Claim part Start */
+#claim_part {
+  padding: 60px 0 65px 0;
+}
+.claim_text {
+  padding-top: 5px;
+}
+.claim_text h4 {
+  padding: 22px 0 8px 0;
+  font-size: 35px;
+  text-align: center;
+}
+.claim_text p {
+  text-align: center;
+  font-size: 14px;
+}
+.claim_text a {
+  padding: 10px 20px;
+  margin-top: 25px;
+  font-size: 16px;
+}
+.claim_text p {
+  padding-top: 0px;
+}
+.clm_btn {
+  text-align: center
+}
+.claim_text p span {
+  padding-top: 5px;
+}
+/*   claim-part end   */
+
+/* Pricing part Start */
+#pricing_part {
+  padding: 58px 0 10px 0;
+}
+.pricing-head h5{
+  font-size: 35px !important;
+}
+.pricing_inner {
+  margin-bottom: 75px;
+}
+.pricing_head h2 {
+  font-size: 25px;
+}
+.pricing_head {
+  margin-bottom: 48px;
+}
+.pricing_inner h3 {
+  font-size: 20px;
+  padding-bottom: 0px;
+  padding-top: 20px;
+}
+.pricing_inner h4 {
+  font-size: 35px;
+}
+.pricing_inner p {
+  padding-bottom: 15px;
+}
+.pricing_inner ul li {
+  padding: 5px;
+  font-size: 14px;
+}
+.pricing_inner a {
+  padding: 10px 20px;
+  font-size: 16px;
+  bottom: -20px;
+}
+.pricing_inner_head h2 {
+  font-size: 16px;
+  padding: 15px 0;
+  top: -50px;
+}
+/*  pricing-part ends   */
+
+/*    accordion part starts    */
+
+#acco-dion{
+  padding-top: 65px !important;
+  padding-bottom: 73px !important;
+}
+.faq-tournament h5{
+  font-size: 30px !important; 
+  text-align: center !important;
+}
+.main-accordion .label{
+  font-size: 14px !important; 
+}
+.main-accordion .content p{
+  font-size: 12px !important; 
+}
+/*    accordion part ends    */
+/*    tournament starts    */
+
+#tour-mr{
+  margin-top: 40px !important;
+  margin-bottom: -20px !important;
+}
+.count-text{
+  /* font-size: 16px !important; */
+  margin-top: 40px !important;
+}
+#getting-startted{
+  margin-top: -40px !important;
+}
+.tournament-scroll-name{
+  margin-right: 0 !important;    
+}
+.tournament-scroll-name h5{
+font-size: 12px !important;
+}
+.tournament-scroll-name p{
+font-size: 12px !important;
+margin-top: -45px !important;
+margin-bottom: 30px !important;
+}
+.tournament-scroll-flag img{
+  margin-top: -32px !important;
+  margin-bottom: 30px !important;
+}
+
+/*    tournament ends    */
+/*    payments starts     */
+
+#payment_part .pay_form{
+  margin-bottom:16px !important;
+}
+/*    payments ends    */
+#payment_part h3{
+  font-size: 20px !important;
+}
+#payment_part a img{
+  padding-right: 0 !important;
+}
+/*    payments ends    */
+/*    footer starts     */
+
+.foot_about h3,
+.foot_secu h3 {
+  font-size: 20 !important;
+}
+.foot_about p{
+  font-size: 15 !important;
+}
+.foot_about a{
+  font-size: 16 !important;
+}
+.foot_info_head h3{
+  margin-top: 10px !important;
+  font-size: 20 !important;
+}
+.foot-text li a{
+  font-size: 10 !important;
+}
+.foot_secu_text img{
+  width: 80%;
+  height: 80%;
+}
+.foot_secu_text p{
+  font-size: 10 !important;
+}
+.foot_bot p{
+  font-size: 13px !important;
+}
+/*    footer ends    */
+
+.effect {
+    position: absolute;
+    left: 0;
+    top: -15px;    
+    animation: lineshine 5s infinite;
+    animation-direction: alternate;
+    z-index: 9999;
+}
+
+@keyframes lineshine {
+    form {
+        left: 0;
+    }
+    to {
+        left: 78%;
+    }
+}
+@keyframes lineshine2 {
+    form {
+        left: 0;
+    }
+    to {
+        left: 82%;
+    }
+}
+@keyframes lineshine3 {
+    form {
+        left: 0;
+    }
+    to {
+        left: 82%;
+    }
+}    
+}
+/*=====================
+medium device ends
+=======================*/
+    
